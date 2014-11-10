@@ -1,0 +1,10 @@
+f:\PBDev\BattleServerSource\BattleServer\bin\Debug\BattleServer.exe
+f:\PBDev\BattleServerSource\BattleServer\bin\Debug\BattleServer.pdb
+f:\PBDev\BattleServerSource\BattleServer\obj\Debug\BattleServer.csprojResolveAssemblyReference.cache
+f:\PBDev\BattleServerSource\BattleServer\obj\Debug\BattleServer.exe
+f:\PBDev\BattleServerSource\BattleServer\obj\Debug\BattleServer.pdb
+C:\Users\Guilherme\Desktop\PB\Source battle\obj\Debug\BattleServer.exe
+C:\Users\Guilherme\Desktop\PB\Source battle\obj\Debug\BattleServer.pdb
+C:\Users\Guilherme\Desktop\PB\Source battle\bin\Debug\BattleServer.exe
+C:\Users\Guilherme\Desktop\PB\Source battle\bin\Debug\BattleServer.pdb
+C:\Users\Guilherme\Desktop\PB\Source battle\obj\Debug\BattleServer.csprojResolveAssemblyReference.cache
