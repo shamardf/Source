@@ -1,0 +1,2 @@
+C:\Users\Guilherme\Desktop\PB\Source battle\obj\Debug\BattleServer.exe
+C:\Users\Guilherme\Desktop\PB\Source battle\obj\Debug\BattleServer.pdb
